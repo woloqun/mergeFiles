@@ -1,2 +1,2 @@
 # mergeFiles
-merging small files in HDFS
+merging small files[orc,parquet] in HDFS
